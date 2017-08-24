@@ -1,0 +1,16 @@
+C:\Users\pionner\Desktop\RecycleBinNotification\RecycleBinNotification\bin\x64\Release x64\RecycleBinNotification.exe
+C:\Users\pionner\Desktop\RecycleBinNotification\RecycleBinNotification\obj\x64\Release x64\RecycleBinNotification.csprojResolveAssemblyReference.cache
+C:\Users\pionner\Desktop\RecycleBinNotification\RecycleBinNotification\obj\x64\Release x64\RecycleBinNotification.Form1.resources
+C:\Users\pionner\Desktop\RecycleBinNotification\RecycleBinNotification\obj\x64\Release x64\RecycleBinNotification.Properties.Resources.resources
+C:\Users\pionner\Desktop\RecycleBinNotification\RecycleBinNotification\obj\x64\Release x64\RecycleBinNotification.csproj.GenerateResource.Cache
+C:\Users\pionner\Desktop\RecycleBinNotification\RecycleBinNotification\obj\x64\Release x64\RecycleBinNotification.exe
+C:\Users\pionner\Desktop\RecycleBinNotification\RecycleBinNotification\bin\x64\Release x64\RecycleBinNotification.exe.config
+C:\Users\Alek\Desktop\RecycleBinNotification\RecycleBinNotification\bin\x64\Release x64\RecycleBinNotification.exe.config
+C:\Users\Alek\Desktop\RecycleBinNotification\RecycleBinNotification\obj\x64\Release x64\RecycleBinNotification.exe
+C:\Users\Alek\Desktop\RecycleBinNotification\RecycleBinNotification\bin\x64\Release x64\RecycleBinNotification.exe
+C:\Users\Alek\Desktop\RecycleBinNotification\RecycleBinNotification\obj\x64\Release x64\RecycleBinNotification.csprojResolveAssemblyReference.cache
+C:\Users\Alek\Desktop\RecycleBinNotification\RecycleBinNotification\obj\x64\Release x64\RecycleBinNotification.Form1.resources
+C:\Users\Alek\Desktop\RecycleBinNotification\RecycleBinNotification\obj\x64\Release x64\RecycleBinNotification.Properties.Resources.resources
+C:\Users\Alek\Desktop\RecycleBinNotification\RecycleBinNotification\obj\x64\Release x64\RecycleBinNotification.csproj.GenerateResource.Cache
+C:\Users\Alek\Desktop\RecycleBinNotification\RecycleBinNotification\obj\x64\Release x64\Interop.Shell32.dll
+C:\Users\Alek\Desktop\RecycleBinNotification\RecycleBinNotification\obj\x64\Release x64\RecycleBinNotification.csproj.ResolveComReference.cache
